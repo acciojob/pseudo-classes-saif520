@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+div{
+	width: 500px;
+	height: 400px;
+	background-color:rgb(135, 206, 235);
+}
+p:first-child{
+	background-color: black;
+	color: white;
+}
+p:nth-child(3){
+	color: red;
+}
+ul>li{
+	width: 50%;
+	background-color: grey;
+	padding: 10px;
+}
+ul>li:nth-child(1){
+	background-color: white;
+	font-size: 22px;
+}
+ul>li:nth-child(5){
+	background-color: white;
+	font-size: 22px;
+}
+ul>li:nth-child(3){
+	background-color: pink;
+}
