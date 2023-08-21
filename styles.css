@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-body{
+div{
 	width: 500px;
 	height: 400px;
 	background-color:rgb(135, 206, 235);
@@ -8,7 +8,7 @@ p:first-child{
 	background-color: black;
 	color: white;
 }
-p:nth-child(3){
+p:nth-child(4){
 	color: red;
 }
 ul>li{
